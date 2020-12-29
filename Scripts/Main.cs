@@ -14,15 +14,18 @@ public class Main : Spatial
 	{
 		//instantiate objects
 		room1 = (Spatial)ResourceLoader.Load<PackedScene>("res:///Scenes/Rooms/Room1.tscn").Instance();
-		mapNode = (Node)ResourceLoader.Load<PackedScene>("res:///Scenes/Map.tscn").Instance();
+		mapNode = new Node();
+		mapNode.Name = "Map";
 		player = (KinematicBody)ResourceLoader.Load<PackedScene>("res:///Scenes/Player.tscn").Instance();
 
 		//set up variables
 		rng.Randomize();
 		globalSeed = (int)rng.Randi();
-		Spatial[] rooms = { (Spatial)room1 };
+		Spatial[] rooms = { room1 };
 
 		//generate map
-		mapGenerator.Generate(globalSeed, mapNode, rooms);
+		AddChild(mapGenerator.Generate(globalSeed, mapNode, rooms));
+		AddChild(player);
+		player.Translation = new Vector3(0, 0, 0);
 	}
 }
