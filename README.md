@@ -1,3 +1,3 @@
 # 99-to-go
 
-Version 0.1.0-alpha
+Version 0.1.0 pre-alpha
