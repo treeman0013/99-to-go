@@ -3,7 +3,6 @@ using System;
 
 public class MapGenerator
 {
-
   RandomNumberGenerator rng = new RandomNumberGenerator();
   public Node Generate(int seed, Node map, Spatial[] rooms)
   {

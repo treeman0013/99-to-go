@@ -1,2 +1,0 @@
-﻿45661
-/home/alekeagle/Godot_v3.2.3-stable_mono_x11_64/godot
