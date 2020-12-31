@@ -1,11 +1,3 @@
-C:/Users/foreg/OneDrive/Desktop/99 to go/.mono/temp/bin/Debug/99 to go.dll
-C:/Users/foreg/OneDrive/Desktop/99 to go/.mono/temp/bin/Debug/99 to go.pdb
-C:/Users/foreg/OneDrive/Desktop/99 to go/.mono/temp/obj/Debug/99 to go.csprojAssemblyReference.cache
-C:/Users/foreg/OneDrive/Desktop/99 to go/.mono/temp/obj/Debug/99 to go.AssemblyInfoInputs.cache
-C:/Users/foreg/OneDrive/Desktop/99 to go/.mono/temp/obj/Debug/99 to go.AssemblyInfo.cs
-C:/Users/foreg/OneDrive/Desktop/99 to go/.mono/temp/obj/Debug/99 to go.csproj.CoreCompileInputs.cache
-C:/Users/foreg/OneDrive/Desktop/99 to go/.mono/temp/obj/Debug/99 to go.dll
-C:/Users/foreg/OneDrive/Desktop/99 to go/.mono/temp/obj/Debug/99 to go.pdb
 /drives/4tb/projects/99-to-go/.mono/temp/bin/Debug/99 to go.dll
 /drives/4tb/projects/99-to-go/.mono/temp/bin/Debug/99 to go.pdb
 /drives/4tb/projects/99-to-go/.mono/temp/obj/Debug/99 to go.csprojAssemblyReference.cache
@@ -14,3 +6,11 @@ C:/Users/foreg/OneDrive/Desktop/99 to go/.mono/temp/obj/Debug/99 to go.pdb
 /drives/4tb/projects/99-to-go/.mono/temp/obj/Debug/99 to go.csproj.CoreCompileInputs.cache
 /drives/4tb/projects/99-to-go/.mono/temp/obj/Debug/99 to go.dll
 /drives/4tb/projects/99-to-go/.mono/temp/obj/Debug/99 to go.pdb
+C:\Users\foreg\OneDrive\Desktop\99 to go\.mono\temp\bin\Debug\99 to go.dll
+C:\Users\foreg\OneDrive\Desktop\99 to go\.mono\temp\bin\Debug\99 to go.pdb
+C:\Users\foreg\OneDrive\Desktop\99 to go\.mono\temp\obj\Debug\99 to go.csprojAssemblyReference.cache
+C:\Users\foreg\OneDrive\Desktop\99 to go\.mono\temp\obj\Debug\99 to go.AssemblyInfoInputs.cache
+C:\Users\foreg\OneDrive\Desktop\99 to go\.mono\temp\obj\Debug\99 to go.AssemblyInfo.cs
+C:\Users\foreg\OneDrive\Desktop\99 to go\.mono\temp\obj\Debug\99 to go.csproj.CoreCompileInputs.cache
+C:\Users\foreg\OneDrive\Desktop\99 to go\.mono\temp\obj\Debug\99 to go.dll
+C:\Users\foreg\OneDrive\Desktop\99 to go\.mono\temp\obj\Debug\99 to go.pdb

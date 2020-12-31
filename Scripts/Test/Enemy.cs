@@ -5,7 +5,6 @@ public class Enemy : Sprite3D
 {
   public int animCol = 0;
   public Camera camera;
-
   public override void _Ready()
   {
 	camera = GetNode<Camera>("../Player/Head/Camera");

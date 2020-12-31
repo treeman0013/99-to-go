@@ -8,28 +8,31 @@
     ".NETFramework,Version=v4.7.2": []
   },
   "packageFolders": {
-    "/home/alekeagle/.nuget/packages/": {}
+    "C:\\Users\\foreg\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/drives/4tb/projects/99-to-go/99 to go.csproj",
+      "projectUniqueName": "C:\\Users\\foreg\\OneDrive\\Desktop\\99 to go\\99 to go.csproj",
       "projectName": "99 to go",
-      "projectPath": "/drives/4tb/projects/99-to-go/99 to go.csproj",
-      "packagesPath": "/home/alekeagle/.nuget/packages/",
-      "outputPath": "/drives/4tb/projects/99-to-go/.mono/temp/obj/",
+      "projectPath": "C:\\Users\\foreg\\OneDrive\\Desktop\\99 to go\\99 to go.csproj",
+      "packagesPath": "C:\\Users\\foreg\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\foreg\\OneDrive\\Desktop\\99 to go\\.mono\\temp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/alekeagle/.config/NuGet/NuGet.Config"
+        "C:\\Users\\foreg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net472"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net472": {
+          "targetAlias": "net472",
           "projectReferences": {}
         }
       },
@@ -41,7 +44,8 @@
     },
     "frameworks": {
       "net472": {
-        "runtimeIdentifierGraphPath": "/usr/lib/mono/msbuild/Current/bin/RuntimeIdentifierGraph.json"
+        "targetAlias": "net472",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
